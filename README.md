@@ -5,12 +5,8 @@ Simple structure, minimal styling, and easy to customize.
 
 ## ✨ Features
 
-* Minimal responsive layout
 * Sidebar layout
-* Blog post collections
-* Archive page
 * Clean CSS (no framework)
-* Easy to extend
 
 ---
 
@@ -19,8 +15,6 @@ Simple structure, minimal styling, and easy to customize.
 * Eleventy (11ty)
 * Nunjucks templates
 * Markdown
-* Vanilla CSS
-* Vanilla JavaScript
 
 ---
 
@@ -29,8 +23,8 @@ Simple structure, minimal styling, and easy to customize.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/barrychum/11tyTheme.git
+cd 11tyTheme
 ```
 
 ### 2. Install dependencies
@@ -110,9 +104,9 @@ Output will be generated in the `_site` folder.
 
 Works great with:
 
+* Cloudflare pages
 * GitHub Pages
 * Netlify
-* Vercel
 * Any static hosting provider
 
 ---
@@ -121,12 +115,4 @@ Works great with:
 
 MIT License — feel free to use and modify.
 
----
-
-If you'd like, I can also:
-
-* Make it more “marketable” for GitHub
-* Add badges
-* Add a demo section
-* Or write a short theme description for social sharing
 
